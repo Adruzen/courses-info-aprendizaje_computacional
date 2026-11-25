@@ -1,0 +1,12 @@
+Determina si son separables linealmente e indica cual seria la función Kernel mas adecuada en ambos casos (indica tipo de función y sus parámetros ) (0.5 puntos).
+Sugerencia: Pinta ambos conjuntos de puntos.
+--
+Calcula los siguientes parámetros de la Maquina de Soporte Vectorial que podemos obtener con los dataset anteriores y el Kernel elegido:
+ Vectores Soporte. (0.25 puntos)
+ Ancho del canal (0.25 puntos)
+ Vector de Pesos normal al Hiperplano (W) (0.25 puntos)
+ Vector B (0.25 puntos)
+ La ecuación del Hiperplano y de los planos de soporte positivo y negativo. (0.25 puntos)
+ Determinar la clase a la que pertenece un punto dado. (0.25 puntos)
+ Pinta el conjuntos de puntos y el Hiperplano. (0.25 puntos)
+ Clasifica los puntos (4, 2.5) y (4,1). (0.25 puntos)

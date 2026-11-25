@@ -1,0 +1,22 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / Editors
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Obsidian
+.obsidian/
